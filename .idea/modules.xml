@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/distribution-trace.iml" filepath="$PROJECT_DIR$/distribution-trace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distribution-trace-client/distribution-trace-client.iml" filepath="$PROJECT_DIR$/distribution-trace-client/distribution-trace-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distribution-trace-common/distribution-trace-common.iml" filepath="$PROJECT_DIR$/distribution-trace-common/distribution-trace-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distribution-trace-server/distribution-trace-server.iml" filepath="$PROJECT_DIR$/distribution-trace-server/distribution-trace-server.iml" />
+    </modules>
+  </component>
+</project>
